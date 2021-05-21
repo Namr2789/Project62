@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 500;
+    height: 500px;
+}
+
+.carousel-inner {
+    height: 700px;
+}
+li{
+    padding-right:20px;
+    padding-left:20px;
+}
